@@ -1,0 +1,17 @@
+{
+  "name": "@bumblebee-plugins",
+  "version": "1.0.0",
+  "description": "Plugins for aoi.js. Made by bumblebee",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "aoi.js": "^6.2.6",
+    "node-fetch": "^3.2.6"
+  }
+}
